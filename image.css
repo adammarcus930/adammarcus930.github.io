@@ -1,26 +1,23 @@
-
-.square{
-	width: 20%;
-	height: 20%;
-	background: grey;
-	float: left;
+.square {
+  width: 20%;
+  height: 20%;
+  background: grey;
+  float: left;
 }
 
-
 .grid {
-	width: 25rem;
-	height: 25rem;
-	margin: 20px auto;
+  width: 25rem;
+  height: 25rem;
+  margin: 20px auto;
 }
 
 h1 {
-	line-height: 1.1;
-	text-align: center;
-	margin:0;
-	font-weight: normal;
-	padding: 20px 0;
+  line-height: 1.1;
+  text-align: center;
+  margin: 0;
+  font-weight: normal;
+  padding: 20px 0;
 }
-
 
 .center {
   display: flex;
